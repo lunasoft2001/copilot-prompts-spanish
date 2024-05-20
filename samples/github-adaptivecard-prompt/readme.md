@@ -3,7 +3,7 @@
 
 ## Resumen
 
-### Propt 💡
+### Prompt 💡
 Crea una tarjeta adaptativa para mostrar dos campos de entrada, uno para texto y el siguiente un desplegable, y dos botones guardar y cancelar.
 
 ### Descripción ℹ️
