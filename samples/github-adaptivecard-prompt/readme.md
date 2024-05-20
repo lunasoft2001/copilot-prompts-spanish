@@ -1,55 +1,55 @@
-# 🚀 Generate adaptive card using GitHub copilot  📅
-
+# 🚀 Genera una tarjeta adaptativa usando GitHub Copilot 📅
 ![Demo of generating adaptivecard](./assets/demo.gif)
 
-## Summary
+## Resumen
+Indicación 💡
+Crea una tarjeta adaptativa para mostrar dos campos de entrada, uno para texto y el siguiente un desplegable, y dos botones guardar y cancelar.
 
-### Prompt 💡
- Create adaptive card to show two input fields one for text and next a drop down and two buttons save and cancel 
+### Descripción ℹ️
+Crea una tarjeta adaptativa con los campos mencionados en lenguaje sencillo.
 
-### Description ℹ️
-
-Create adaptive card with fields mentioned in simple language
-
-## Contributors 👨‍💻
-
+## Colaboradores 👨‍💻
 [Rabia Williams](https://github.com/rabwill)
+Traducido por Juanjo Luna con la ayuda de Copilot
 
-## Version history
+## Historial de versiones
+Versión|Fecha|Comentarios
 
-Version|Date|Comments
 -------|----|--------
-1.0|April 29, 2024|Initial release
 
-## Instructions 📝
+1.0|29 de abril de 2024|Lanzamiento inicial
+1.1|20 de mayo de 2024|Traducción al español
 
-1. Make sure you have Github copilot extension installed in VSCode and enable it
-2. Create a .json file
-3. Launch GitHub copilot chat "command"+ i or "ctrl" +i
-4. Copy the above prompt and paste and select `Enter`
-5. If the generated card looks good, select `Accept`
+## Instrucciones 📝
+Asegúrate de tener la extensión de GitHub Copilot instalada en VSCode y actívala.
+Crea un archivo .json.
+Lanza el chat de GitHub Copilot con “comando”+ i o “ctrl” +i.
+Copia la indicación anterior y pégala y selecciona Enter.
+Si la tarjeta generada se ve bien, selecciona Aceptar.
+Uso improvisado 🚀
+Expande la descripción del campo y pide a Copilot que también lo haga visualmente atractivo con formato y emojis.
 
-### Improvise Usage 🚀
-Expand the field description and ask copilot to also make it visibly appealing with formatting and emojis
-
-## Prerequisites
+### Prerrequisitos
 
 * [GitHub copilot](https://copilot.github.com/)
 
-## Help
+  
+## Ayuda
 
-We do not support samples, but this community is always willing to help, and we want to improve these samples. We use GitHub to track issues, which makes it easy for  community members to volunteer their time and help resolve issues.
+No damos soporte a muestras, pero esta comunidad siempre está dispuesta a ayudar, y queremos mejorar estas muestras. Usamos GitHub para rastrear problemas, lo que facilita que los miembros de la comunidad ofrezcan su tiempo y ayuden a resolver problemas.
 
-You can try looking at [issues related to this sample](https://github.com/pnp/copilot-prompts/issues?q=label%3A%22sample%3A%20YOUR-SAMPLE-NAME%22) to see if anybody else is having the same issues.
+Puedes intentar mirar problemas relacionados con esta muestra para ver si alguien más tiene los mismos problemas.
 
-If you encounter any issues using this sample, [create a new issue](https://github.com/pnp/copilot-prompts/issues/new).
+Si encuentras algún problema utilizando esta muestra, crea un nuevo problema.
 
-Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/copilot-prompts/issues/new).
+Finalmente, si tienes una idea para mejorar, haz una sugerencia.
 
-## Disclaimer
+## Descargo de responsabilidad
 
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+ESTE CÓDIGO SE PROPORCIONA TAL CUAL SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO CUALQUIER GARANTÍA IMPLÍCITA DE APTITUD PARA UN PROPÓSITO PARTICULAR, COMERCIABILIDAD O NO INFRACCIÓN.
 
 ![](https://m365-visitor-stats.azurewebsites.net/SamplesGallery/copilotprompts-github-adaptivecard-prompt)
+
+
 
 
