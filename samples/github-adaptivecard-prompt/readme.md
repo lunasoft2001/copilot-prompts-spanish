@@ -19,6 +19,7 @@ Versión|Fecha|Comentarios
 -------|----|--------
 
 1.0|29 de abril de 2024|Lanzamiento inicial
+
 1.1|20 de mayo de 2024|Traducción al español
 
 ## Instrucciones 📝
