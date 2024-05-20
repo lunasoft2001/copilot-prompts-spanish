@@ -21,12 +21,16 @@ Versión|Fecha|Comentarios
 1.1|20 de mayo de 2024|Traducción al español
 
 ## Instrucciones 📝
-Asegúrate de tener la extensión de GitHub Copilot instalada en VSCode y actívala.
-Crea un archivo .json.
-Lanza el chat de GitHub Copilot con “comando”+ i o “ctrl” +i.
-Copia la indicación anterior y pégala y selecciona Enter.
-Si la tarjeta generada se ve bien, selecciona Aceptar.
-Uso improvisado 🚀
+
+1. Asegúrate de tener la extensión de GitHub Copilot instalada en VSCode y actívala.
+2. Crea un archivo .json.
+3. Lanza el chat de GitHub Copilot con “comando”+ i o “ctrl” +i.
+4. Copia la indicación anterior y pégala y selecciona `Enter`
+5. Si la tarjeta generada se ve bien, selecciona `Aceptar`
+
+
+## Uso improvisado 🚀
+
 Expande la descripción del campo y pide a Copilot que también lo haga visualmente atractivo con formato y emojis.
 
 ### Prerrequisitos
